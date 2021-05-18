@@ -17,7 +17,8 @@ AdMob là nền tảng cung cấp cách kiếm tiền bằng cách hiển thị 
     * Native Ads bị giữ lâu hơn 1h mà không được hiển thị nên bị loại bỏ và thay thế
 
 =====================================================================
-	    Thêm AdMob vào Android
+
+Thêm AdMob vào Android
 
 1. Thêm thành phần phụ thuộc vào build.gradle
  	implementation ‘com.google.android.gms:play-services-ads:20.1.0’
